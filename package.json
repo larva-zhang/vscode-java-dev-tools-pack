@@ -3,7 +3,7 @@
     "displayName": "Java Dev Tools Pack",
     "description": "Some Java develop support tools extension pack.",
     "publisher": "larva-zhang",
-    "version": "1.0",
+    "version": "1.0.0",
     "license": "SEE LICENSE IN LICENSE",
     "icon": "extension-icon.png",
     "engines": {
