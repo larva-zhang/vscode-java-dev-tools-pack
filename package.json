@@ -1,0 +1,65 @@
+{
+    "name": "vscode-java-dev-tools-pack",
+    "displayName": "Java Dev Tools Pack",
+    "description": "Some Java develop support tools extension pack.",
+    "publisher": "larva-zhang",
+    "version": "0.0.1",
+    "license": "SEE LICENSE IN LICENSE",
+    "icon": "extension-icon.png",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "keywords": [
+        "Java", "Spring", "Servlet"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "homepage": "https://github.com/larva-zhang/vscode-java-dev-tools-pack/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/larva-zhang/vscode-java-dev-tools-pack/issues",
+        "email": "zhanghan0031@m163.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/larva-zhang/vscode-java-dev-tools-pack.git"
+    },
+    "extensionPack": [
+        "PKief.material-icon-theme",
+        "DotJoshJohnson.xml",
+        "redhat.vscode-yaml",
+        "tanaka-x.prop2yaml",
+        "shd101wyy.markdown-preview-enhanced",
+        "asciidoctor.asciidoctor-vscode",
+        "jebbs.plantuml",
+        "esbenp.prettier-vscode",
+        "HookyQR.beautify",
+        "Gruntfuggly.todo-tree",
+        "Shan.code-settings-sync",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "alefragnani.project-manager",
+        "codezombiech.gitignore",
+        "redhat.java",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-dependency",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "YouMayCallMeV.vscode-java-saber",
+        "dgileadi.java-decompiler",
+        "GabrielBB.vscode-lombok",
+        "sohibe.java-generate-setters-getters",
+        "niko.vsc-mybatis",
+        "naco-siren.gradle-language",
+        "richardwillis.vscode-gradle",
+        "Pivotal.vscode-spring-boot",
+        "vscjava.vscode-spring-initializr",
+        "vscjava.vscode-spring-boot-dashboard",
+        "adashen.vscode-tomcat",
+        "summersun.vscode-jetty",
+        "SonarSource.sonarlint-vscode",
+        "Rectcircle.vscode-p3c",
+        "mtxr.sqltools"
+    ]
+}
